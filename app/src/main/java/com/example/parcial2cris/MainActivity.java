@@ -9,7 +9,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    private ArrayList<personas> listLeads;
+    private ArrayList<personas> listaLeads;
     ListView lv1;
     Integer[] ImgPpersonas = {
             R.drawable.lead_photo_1,
@@ -23,8 +23,6 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.lead_photo_9,
             R.drawable.lead_photo_10
     };
-ArrayList<personas> listaLeads;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
