@@ -8,12 +8,13 @@
     tools:context=".MainActivity" >
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/txLead"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Leads" />
 
     <ListView
+        android:id="@+id/lvLead"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
