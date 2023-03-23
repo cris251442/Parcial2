@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayLeads">
+        <item>Alexander Pierrot</item>
+        <item>Carlos Lopez</item>
+        <item>Sara Bonz</item>
+        <item>Liliana Clarence</item>
+        <item>Benito Peralta</item>
+        <item>Juan Jaramillo</item>
+        <item>Christian Steps</item>
+        <item>Alexa Giraldo</item>
+        <item>Linda Murillo</item>
+        <item>Lizeth Astrada</item>
+    </string-array>
+
+</resources>
