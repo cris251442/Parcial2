@@ -31,7 +31,9 @@ public class MainActivity extends AppCompatActivity {
 
         listaLeads=new ArrayList<personas>();
 
-        listaLeads.add(new personas("Alexander Pierrot"));
+        listaLeads.add(new personas());
+
+        listaLeads.add(new personas("Alexander Pierrot", 'f'));
         listaLeads.add(new personas("Carlos Lopez"));
         listaLeads.add(new personas("Sara Bonz"));
         listaLeads.add(new personas("Liliana Clarence"));
